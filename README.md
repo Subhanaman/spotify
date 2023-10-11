@@ -1,6 +1,8 @@
 # Spotify-Clone
 
-As part of learning to code,I completed a project that involved creating a basic Spotify clone using HTML, CSS, and JavaScript. This project was designed to showcase my skills in front-end web development.It is a responsive and user-friendly web application that allows users to play music.I used HTML and CSS to design and style the interface, and I implemented JavaScript to handle user input and interaction such as basic playback controls -play, pause, and next.I also gained experience working with version control tools such as Git and GitHub.
+As a frount-end-developer, I have completed a user-friendly, simple and easy spotify clone that displays ten non-copyrighted songs
+that can be easily be played and paused.I have made this to develope my skills in frount-end-developing and as a project to work upon.
+It can be imporve and I am open for advice. This contains html, css, and java script coding.
 
 ## Tech-Stack-
 
@@ -23,12 +25,8 @@ Once the Spotify clone is open in your browser, You can then click the play butt
 
 ## Live-Demo-
 
-[Spotify-Clone-Live](https://spotify-clone-javascript.netlify.app/)
+[Spotify-Clone-Live](https://subhanaman.github.io/spotify/)
 
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e37fba97-0766-4626-9212-06a9fa3e5f00/deploy-status)](https://app.netlify.com/sites/animated-marshmallow-d90790/deploys)
+[Github-pages](https://pages.github.com/)
 
-
-## Screenshot-
-
-![image](https://user-images.githubusercontent.com/48729682/222124168-70e510a9-0232-4c71-9939-cd7e8c512fcc.png)
